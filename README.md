@@ -24,7 +24,6 @@ To run this project:
 
 Enjoy the project!!
 
-Contributors:
-  1.  @anushree1903
-  2.  @manju1807
+
+
 
